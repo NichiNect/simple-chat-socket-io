@@ -21,9 +21,10 @@ section {
     border-radius: 3px;
     padding: 5px;
     margin: 5px 0;
+    text-align: left;
 }
 
-.chat-r {
+.chat-right {
     border: 2px solid red;
     text-align: right;
 }
